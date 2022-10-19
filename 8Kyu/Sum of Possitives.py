@@ -1,5 +1,4 @@
 def positive_sum(arr):
-        
     return sum(x for x in arr)
 """
 def positive_sum(arr):
@@ -7,6 +6,5 @@ def positive_sum(arr):
     for i in arr:
         if i > 0:
             x.append(i)
-        
     return sum(x)
 """
